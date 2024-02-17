@@ -1,0 +1,327 @@
+
+
+nav li {display: inline;}
+
+#que {
+    width: 100%;
+    height: auto;
+}
+
+.Jessore {
+    width: 100%;
+    height: auto;
+
+}
+.empty{
+    width: auto;
+    height: 250px;
+}
+.gallary{
+    width: 100%;
+    height: auto;
+}
+
+
+.content{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+humanity{
+    width: 100%;
+    height: 100%;
+}
+
+.horizontal-line{
+    border: 3px solid white ;
+  
+}
+.bg-img{
+    background-image: url(images/backgroundimage.png);
+    background-repeat: no-repeat;
+}
+
+.image-bg{
+    background-image:url(images/Link\ →\ blog-7.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+   
+
+
+}
+
+.image-bg1{
+    background-image:url(images/Link\ →\ blog-8.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+
+.image-bg2{
+    background-image:url(images/Link\ →\ blog-9.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+
+.image-bg3{
+    background-image:url(images/Link\ →\ blog-10.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+
+.image-bg4{
+    background-image:url(images/Link\ →\ blog-11.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+
+.image-bg5{
+    background-image:url(images/Link\ →\ blog-12.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+
+.image-bg6{
+    background-image:url(images/Link\ →\ blog-13.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+
+.image-bg7{
+    background-image:url(images/Link\ →\ blog-14.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.image-bg8{
+    background-image:url(images/Link\ →\ blog-15.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.image-bg8{
+    background-image:url(images/Link\ →\ blog-15.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.image-bg-1{
+    background-image:url(images/Link\ →\ donate-1.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.image-bg-2{
+    background-image:url(images/Link\ →\ donate-2.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.image-bg-3{
+    background-image:url(images/Link\ →\ donate-3.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.image-bg-4{
+    background-image:url(images/Link\ →\ donate-6.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.image-bg-5{
+    background-image:url(images/Link\ →\ donate-7.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.image-bg-6{
+    background-image:url(images/Link\ →\ donate-8.png.png) ;
+     background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    
+}
+.form-control {
+    width: 30%;
+    height: 50%;
+
+}
+
+
+
+
+
+
+.box {
+    background-color: rgba(238, 255, 0, 0.842);
+    border: 10px;
+    width: auto;
+    margin-top: 39vh;
+    margin-right: -9vh;
+    text-align: center;
+   
+
+}
+
+.food{
+    background-color: green;
+    border: 10px;
+    width: auto;
+    margin-top: -5vh;
+    margin-left: -12px;
+    text-align: center;
+    position: absolute;
+    font-weight: bold;
+    color: beige;
+    border-radius: 15px;
+    padding: 13px;
+}
+
+.large {
+    width: 100%;
+}
+.lines{
+    width: 80%;
+    margin-left: 3vw;
+}
+
+.form{
+    margin-left: 20vw;
+}
+
+.form-control1{
+    width: 70%;
+}
+
+.charitfix-logo, .account {
+    margin-left: 20vw;
+}
+
+
+.heading-png{
+    position: absolute;
+    margin-top: -15vh;
+    margin-left: 7vw;
+    z-index: 1;
+    opacity: 100%;
+}
+
+.check{
+    position: relative;
+    z-index: 3;
+}
+
+.date{
+   margin-top: -11vh; 
+   margin-left: 3.3vw;
+}
+
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  .container .jumbotron {
+    background: url('../images/jumbotron_1200.jpg') no-repeat;
+    height: 675px;
+  }
+  .hide{
+    visibility: hidden;
+  }
+  
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .resize {
+    height: 100%;
+    width: 100%;
+  }
+  .hide{
+    visibility: hidden;
+  }
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .resize {
+    height: 100%;
+    width: 100%;
+  }
+  .horizontal-line{
+    visibility: hidden;
+  }
+  .hidden{
+    visibility: hidden;
+  }
+  .hide{
+    visibility: visible;
+  }
+  
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  .resize {
+    height: 100%;
+    width: 100%;
+  }
+  .horizontal-line{
+    visibility: hidden;
+  }
+  .hidden{
+    visibility: hidden;
+  }
+  .hide{
+    visibility: visible;
+  }
+  
+  
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+  .resize {
+    height: 100%;
+    width: 100%;
+  }
+  .horizontal-line{
+    visibility: hidden;
+  }
+  .hidden{
+    visibility: hidden;
+  }
+  .hide{
+    visibility: visible;
+  }
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: azure;
+}
+:link {
+  text-decoration: none;
+  color: azure;
+}
